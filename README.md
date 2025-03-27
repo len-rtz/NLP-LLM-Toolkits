@@ -26,3 +26,4 @@
 - Ollama: A tool to run LLMs locally
 - vLLM: A high-throughput and memory-efficient inference and serving engine for LLMs
 - Langfuse: An open source observability and analytics platform for LLMs
+- Gradio: open-source Python library for creating simple and interactive interfaces for machine learning models
