@@ -4,10 +4,9 @@
 - NLTK (Natural Language Toolkit): A foundational library for symbolic and statistical NLP, offering tools for tokenization, stemming, tagging, parsing, and more
 - spaCy: A modern, fast, and efficient library for advanced NLP tasks, excelling in tasks like named entity recognition, dependency parsing, and text classification
 - TextBlob: A simplified library built on top of NLTK and pattern, providing easy-to-use interfaces for common NLP tasks
-- Polyglot: A library for multilingual NLP, supporting a wide range of languages
 - FastText: A library for efficient learning of word representations and sentence classification
 - Gensim: A library focused on topic modeling and document similarity analysis
-- 
+  
 ## Deep Learning and Machine Learning Frameworks:
 - Scikit-learn: A general-purpose machine learning library, offering a wide range of algorithms for classification, regression, clustering, and more
 - TensorFlow: A powerful open-source machine learning framework, widely used for deep learning tasks
