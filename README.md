@@ -1,6 +1,6 @@
 # NLP-LLM-Toolkits
 
-## Core NLP Libraries
+## [Core NLP Libraries](https://github.com/len-rtz/NLP-LLM-Toolkits/blob/main/core-nlp-libraries.ipynb)
 - NLTK (Natural Language Toolkit): A foundational library for symbolic and statistical NLP, offering tools for tokenization, stemming, tagging, parsing, and more
 - spaCy: A modern, fast, and efficient library for advanced NLP tasks, excelling in tasks like named entity recognition, dependency parsing, and text classification
 - TextBlob: A simplified library built on top of NLTK and pattern, providing easy-to-use interfaces for common NLP tasks
