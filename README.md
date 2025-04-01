@@ -7,7 +7,7 @@
 - FastText: A library for efficient learning of word representations and sentence classification
 - Gensim: A library focused on topic modeling and document similarity analysis
   
-## Deep Learning and Machine Learning Frameworks:
+## [Deep Learning and Machine Learning Frameworks](https://github.com/len-rtz/NLP-LLM-Toolkits/blob/main/DeppL-ML.ipynb):
 - Scikit-learn: A general-purpose machine learning library, offering a wide range of algorithms for classification, regression, clustering, and more
 - TensorFlow: A powerful open-source machine learning framework, widely used for deep learning tasks
 - TensorFlowText: 
